@@ -15,5 +15,6 @@ public class CreatingArrays {
             System.out.println(num);
         }
 
+
     }
 }
